@@ -1,0 +1,9 @@
+*.pem
+*.ppk
+*.key
+.env
+.env.*
+credentials*.csv
+*_credentials.csv
+*.pyc
+__pycache__/
